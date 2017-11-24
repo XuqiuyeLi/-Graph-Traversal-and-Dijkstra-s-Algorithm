@@ -1,9 +1,8 @@
 # -Graph-Traversal-and-Dijkstra-s-Algorithm
-The project is to use the Graph ADT and Dijkstra’s algorithm to compute the length of the shortest path and the path with the fewest turns. The input graphs are actual street map of Manhattan NY and Manhattan Kansas.
+The project is to use the Graph ADT and Dijkstra’s algorithm to compute the length of the shortest path and the path with the fewest turns. The input graphs are actual street map of Manhattan Kansas and Manhattan NY.
 
-**Manhattan Kansas**
 ![Manhattan Kansas](https://github.com/XuqiuyeLi/-Graph-Traversal-and-Dijkstra-s-Algorithm/blob/master/Mahattan_Kansas.png)
-**Manhattan NY**
+
 ![Manhattan NY](https://github.com/XuqiuyeLi/-Graph-Traversal-and-Dijkstra-s-Algorithm/blob/master/Manhattan_NY.png)
 ## Logistics
 1. Create a graph based upon the given street map. Each expected vertex in your graph is represented by a blue dot. The blue dots represent a traffic intersection. Your vertex should be an instance of an Intersection Class, not a String as used in most class examples. Your program should read an input file containing all information about the intersection including all streets that meet at that intersection. 
